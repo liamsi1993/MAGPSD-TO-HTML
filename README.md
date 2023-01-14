@@ -1,2 +1,3 @@
 # PSGTOHTML
-this is some theme converted from PSD to HTML
+this theme is converted to HTML/CSS
+
